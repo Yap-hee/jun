@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+	margin:0;
+	font-family:sans-serif; 
+}
+
+a{
+	padding:8px 12px;
+}
+
+.navbar{
+	padding:8px;
+	background-color: navy;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.navbar_logo{
+	color: orange;
+}
